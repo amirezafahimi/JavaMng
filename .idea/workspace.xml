@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f845e4d-6367-4697-9c99-25dc75504ff7" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManagementSystem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagementSystem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ManagementSystemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ManagementSystemTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -79,8 +77,8 @@
       <file leaf-file-name="ManagementSystem2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ManagementSystem2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="265">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
             </state>
           </provider>
         </entry>
@@ -88,8 +86,8 @@
       <file leaf-file-name="ManagementSystemTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ManagementSystemTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+            <state relative-caret-position="325">
+              <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,8 +127,8 @@
         <option value="$PROJECT_DIR$/src/ManagementSystem.java" />
         <option value="$PROJECT_DIR$/src/MobileProgrammer.java" />
         <option value="$PROJECT_DIR$/src/Person.java" />
-        <option value="$PROJECT_DIR$/src/ManagementSystemTest.java" />
         <option value="$PROJECT_DIR$/src/ManagementSystem2.java" />
+        <option value="$PROJECT_DIR$/src/ManagementSystemTest.java" />
       </list>
     </option>
   </component>
@@ -228,16 +226,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1532671674811</updated>
-      <workItem from="1532671685289" duration="7336000" />
+      <workItem from="1532671685289" duration="8737000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7336000" />
+    <option name="totallyTimeSpent" value="8737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -349,15 +346,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ManagementSystem2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="265">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ManagementSystemTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="40" column="32" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+        <state relative-caret-position="325">
+          <caret line="41" column="20" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
