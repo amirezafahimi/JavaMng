@@ -22,7 +22,7 @@ public class ManagementSystem2 extends ManagementSystem{
     }
     //***********************************************************
     public void viewAllInfo(){
-
+        int a;
     }
     //***********************************************************
 
