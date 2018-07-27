@@ -10,7 +10,12 @@ public class Accountants extends Person{
         this.degree=degree;
     }
 
-    public String getdegree() {
-        return name;
+    public void setDegree(String degree) {
+        this.degree=degree;
+    }
+
+
+    public String getDegree() {
+        return degree;
     }
 }
