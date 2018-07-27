@@ -1,7 +1,5 @@
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-import proj1.ATM2;
-import proj1.Acount;
 
 /*
  * To change this license header, choose License Headers in Project Properties.
@@ -42,8 +40,6 @@ public class ManagementSystemTest extends ManagementSystem2 {
             }else if(u==3){
                 man.viewAllInfo();
             }else {}
-
-
         }
     }
 }
