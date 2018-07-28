@@ -14,7 +14,12 @@ public class MobileProgrammer extends Person{
 
     }
 
-    public String getlastJob() {
+    public void setLastJob(String lastJob) {
+        this.lastJob=lastJob;
+    }
+
+
+    public String getLastJob() {
         return name;
     }
 }
