@@ -8,7 +8,7 @@ public class Person {
     protected String type;
     protected String name;
     int Id;
-    protected int work_experience;
+    protected int WorkExperience;
 
     /**
      *
@@ -28,8 +28,8 @@ public class Person {
     }
 
 
-    public void setWork_experience(int work_experience){
-        this.work_experience=work_experience;
+    public void setWorkExperience(int WorkExperience){
+        this.WorkExperience=WorkExperience;
     }
 
 
@@ -47,8 +47,8 @@ public class Person {
     }
 
 
-    public int getWork_experience(){
-        return work_experience;
+    public int getWorkExperience(){
+        return WorkExperience;
     }
 
 }

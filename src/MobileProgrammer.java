@@ -4,14 +4,15 @@
  */
 public class MobileProgrammer extends Person{
     protected String lastJob;
+    protected String languageUsed;
 
-    public MobileProgrammer(String type, String name, int Id, int work_experience, String lastJob){
+    public MobileProgrammer(String type, String name, int Id, int WorkExperience, String lastJob, String languageUsed){
         super.type=type;
         super.name=name;
         super.Id=Id;
-        super.work_experience=work_experience;
+        super.WorkExperience=WorkExperience;
         this.lastJob=lastJob;
-
+        this.languageUsed=languageUsed;
     }
 
     public void setLastJob(String lastJob) {
@@ -20,6 +21,18 @@ public class MobileProgrammer extends Person{
 
 
     public String getLastJob() {
-        return name;
+        return lastJob;
+    }
+
+
+    public void setLanguageUsed(String lastJob) {
+
+        this.lastJob=languageUsed;
+    }
+
+
+    public String getLanguageUsed() {
+
+        return languageUsed;
     }
 }
